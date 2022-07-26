@@ -10,8 +10,8 @@ This is a solution to the Product preview card component challenge on Frontend M
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-flexbox-and-grid-7gzT62qPtM)
+- Live Site URL: [https://product-preview-card-orpin.vercel.app/](https://product-preview-card-orpin.vercel.app/)
 
 ### Built with
 
